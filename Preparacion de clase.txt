@@ -1,0 +1,2 @@
+De la pagina https://tecdigital.tec.ac.cr/revistamatematica/HERRAmInternet/Graficador-Swing-java2D/node3.html 
+lei como son los metodos de graficacion dentro de la programacion, como se emplean en pantalla y como los programas manejan su propio sistema de coordenadas 
